@@ -1,0 +1,6 @@
+{
+  "name": "MaterialIQ – Raw Material Requirement & BOM Costing Calculator",
+  "description": "Enterprise manufacturing and procurement platform for BOM management with version control, material requirements planning (Gross & Net), inventory monitoring, and costing analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
